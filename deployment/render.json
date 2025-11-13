@@ -1,0 +1,22 @@
+{
+  "$schema": "https://render.com/schema/render.yaml",
+  "services": [
+    {
+      "type": "web",
+      "name": "member-qa-system",
+      "env": "docker",
+      "plan": "free",
+      "dockerfilePath": "./Dockerfile",
+      "envVars": [
+        {
+          "key": "OPENAI_API_KEY",
+          "sync": false
+        },
+        {
+          "key": "MEMBER_API_URL",
+          "value": "https://november7-730026606190.europe-west1.run.app"
+        }
+      ]
+    }
+  ]
+}
