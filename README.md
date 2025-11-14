@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Member-QA-System
 =======
-# Member QA System
+# Member QA System Deploy site:  https://member-qa-system-deploy.onrender.com
 
 A natural language question-answering system for member data, built with FastAPI and OpenAI GPT.
 
@@ -317,4 +317,5 @@ MIT License
 
 <!-- Intentionally concise; authored for the take-home submission. -->
 >>>>>>> 24f6b47 (chore: initial commit for Member QA System)
+
 
