@@ -14,7 +14,7 @@ A natural language question-answering system for member data, built with FastAPI
 
 ## 🚀 Live Demo
 
-**API Endpoint:** `[Your deployed URL here]/ask`
+
 
 ## 📋 Example Questions
 
@@ -317,3 +317,4 @@ MIT License
 
 <!-- Intentionally concise; authored for the take-home submission. -->
 >>>>>>> 24f6b47 (chore: initial commit for Member QA System)
+
